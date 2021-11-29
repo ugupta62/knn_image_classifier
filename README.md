@@ -13,4 +13,4 @@ python knn_image_classifier.py
 2) Without visualization of fed images:
 python -O knn_image_classifier.py
 
-NOTE: here the -O is the capital letter not zero.
+NOTE: here the -O is the capital letter not zero. For details, read the final.pdf.
